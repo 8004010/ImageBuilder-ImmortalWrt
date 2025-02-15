@@ -20,6 +20,8 @@ luci-app-autoreboot
 luci-i18n-autoreboot-zh-cn
 luci-app-ddns
 luci-i18n-ddns-zh-cn
+luci-app-ddns-go
+luci-i18n-ddns-go-zh-cn
 luci-app-arpbind
 luci-i18n-arpbind-zh-cn
 luci-app-vlmcsd
